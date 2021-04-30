@@ -1,2 +1,10 @@
 # react-landing-page
-test description
+
+
+
+# install and start local dev environment
+```
+cd my-app
+npm install
+npm start
+```
