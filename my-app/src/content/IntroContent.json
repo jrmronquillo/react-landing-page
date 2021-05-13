@@ -3,11 +3,13 @@
   "text": "Hi, I'm Jerome. Nice to meet you!",
   "button": [
     {
-      "title": "Explore"
+      "title": "Explore",
+      "scrollDest": "about"
     },
     {
       "title": "Learn More",
-      "color": "#fff"
+      "color": "#fff",
+      "scrollDest": "product"
     }
   ]
 }
